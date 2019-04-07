@@ -1,5 +1,5 @@
 # FCFS
-//this program is about first come first serve
+//this program is about first come first serve //
 #include<stdio.h>
 #include<conio.h>
 int main()
